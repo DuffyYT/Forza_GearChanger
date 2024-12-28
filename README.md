@@ -1,2 +1,5 @@
 # Forza_GearChanger
-This script can make using the keyboard and mouse for controlling forza horizon or any other similar games easier, if a controller or a gear shifter is not available. Refer the readme file for more details and how it works and how you can modify to suite your game
+
+This script can enable you to switch the gears with your mouse rather than using your keyboard which makes the process much easier and intuivative.
+
+More information will be released soon
